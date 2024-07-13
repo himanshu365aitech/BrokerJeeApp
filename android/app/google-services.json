@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328946884617",
+    "project_id": "brokerfortesting",
+    "storage_bucket": "brokerfortesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328946884617:android:67dcd95547670fead998d8",
+        "android_client_info": {
+          "package_name": "com.mycompany.broker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb45ekE0pL2bsGZ8Rd1tGDBXI--tX9peg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
